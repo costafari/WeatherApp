@@ -1,0 +1,6 @@
+com/hackerrank/weather/controller/WeatherApiRestController.class
+com/hackerrank/weather/repository/WeatherRepository.class
+com/hackerrank/weather/Config/SQLiteIdentityColumnSupport.class
+com/hackerrank/weather/Config/SQLDialect.class
+com/hackerrank/weather/model/Weather.class
+com/hackerrank/weather/Application.class
